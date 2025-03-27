@@ -10,7 +10,7 @@ I'm a bilingual full-stack developer based in Japan, passionate about creating d
 
 ## 📫 Let's Connect
 
-- [Portfolio](remycastella.com)
+- [Portfolio](https://remycastella.com)
 - [LinkedIn](https://www.linkedin.com/in/remycastella/)
 
 Thanks for stopping by! 😊
