@@ -11,9 +11,6 @@ I'm a bilingual full-stack developer based in Japan, passionate about creating d
 ### Other  
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 
-## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=RemyCastella&theme=dark&hide_border=true)
-
 ## 📫 Let's Connect!
 - [Portfolio](https://remycastella.com)
 - [LinkedIn](https://www.linkedin.com/in/remycastella/)
