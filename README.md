@@ -15,7 +15,7 @@ Computer Science Distilled: Learn the Art of Solving Computational Problems - Wl
 ### Other  
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=remycastella&hide=liquid,dockerfile, css,scss,html&theme=tokyonight" alt="remycastella" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=remycastella&hide=liquid,docker, css,scss,html&theme=tokyonight" alt="remycastella" />
 
 ## 📫 Let's Connect!
 - [Portfolio](https://remycastella.com)
